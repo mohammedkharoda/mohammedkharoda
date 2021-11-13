@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohammedkharod7" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedkharod7?logo=twitter&style=for-the-badge" alt="mohammedkharod7" /></a> </p>
 
-- 🔭 I’m currently working on **Bankist**
+- 🔭 I’m currently working on **Bankist project**
 
 - 🌱 I’m currently learning **Tailwind , React.js , Node.js ,SQL**
 
@@ -14,6 +14,9 @@
 - 📫 How to reach me **kharodawalam@gmail.com**
 
 - ⚡ Fun fact **I think I am funny because I like version control, Clean Code , Sometime server down 😉 ,**
+
+-  📝 A Short summary <a herf ="https://dev.page/mohammedk?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog" target = "blank" > Mohammed Kharoda </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
