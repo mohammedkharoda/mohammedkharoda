@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think I am funny because I like version control, Clean Code , Sometime server down 😉 ,**
 
--  📝 A Short summary <a herf ="https://dev.page/mohammedk?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog" target = "blank" > Mohammed Kharoda </a>
+-  📝 A Short summary <a href="https://dev.page/mohammedk?utm_source=dev.page&utm_medium=site&utm_campaign=share-dialog" target="blank"> Mohammed Kharoda</a>
 
 
 <h3 align="left">Connect with me:</h3>
