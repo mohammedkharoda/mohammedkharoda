@@ -69,9 +69,9 @@ End Technology
   
   <div>
    <address>
-  <a href="mailto:kharodawalam@gmail.com" target="_blank">
+  <a href="mailto:geoff@geoffgraham.me">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
-    </a>
+  </a>
   </div>
 </address>
 <br>
