@@ -55,20 +55,28 @@ End Technology
   <img src="	https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
  </div>
+ 
 
  
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/mohammed-kharoda-b5785b178/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/MOHAMMED KHARODAWALA'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<div>
+ <div>
+ <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/mohammed-kharoda-b5785b178/'> <img width = '32px' align= 'center'      src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+ <a href = 'https://www.github.com/MOHAMMED KHARODAWALA'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  
+ </div>
+
+ 
+ <br>
+  
+  <div>
   <a href = "mailto: kharodawalam@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</div>
+  </div>
 
-
+<br>
+   
+ <div>
  <h2>About My Work</h2>
  <img src="https://github-readme-stats.vercel.app/api?username=mohammedkharoda" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkharoda" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedkharoda" />
-
+</div>
 <br>
