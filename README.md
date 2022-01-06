@@ -68,10 +68,11 @@ End Technology
  <br>
   
   <div>
+   <address>
   <a href = "mailto: kharodawalam@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </div>
-
+</address>
 <br>
    
  <div>
