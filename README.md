@@ -60,8 +60,8 @@ End Technology
  
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
  <div>
- <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/mohammed-kharoda-b5785b178/'> <img width = '32px' align= 'center'      src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
- <a href = 'https://www.github.com/MOHAMMED KHARODAWALA'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  
+ <a href = 'https://www.linkedin.com/in/mohammed-kharoda-b5785b178'> <img width = '32px' align= 'center'      src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+ <a href = 'https://github.com/mohammedkharoda'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  
  </div>
 
  
