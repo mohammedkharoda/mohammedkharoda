@@ -55,10 +55,12 @@ End Technology
   <img src="	https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
  </div>
- 
 
+ <br />
  
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkharoda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <br />
+ <h2> Connect with me </h2>
  <div>
  <a href = 'https://www.linkedin.com/in/mohammed-kharoda-b5785b178'> <img width = '32px' align= 'center'      src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
  <a href = 'https://github.com/mohammedkharoda'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  
