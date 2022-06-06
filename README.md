@@ -63,7 +63,6 @@ End Technology
  <h2> Connect with me </h2>
  <div>
 
-
 <p align="center">
  
 <a href="https://twitter.com/MOHAMMEDKHAROD" target="_blank">
