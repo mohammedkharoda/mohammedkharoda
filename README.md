@@ -86,7 +86,7 @@ End Technology
 <br>
    
  <div>
- <h2>About My Work</h2>
+ <h2>GitHub Statics</h2>
  <img src="https://github-readme-stats.vercel.app/api?username=mohammedkharoda" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedkharoda" />
  <br>
