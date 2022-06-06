@@ -1,6 +1,6 @@
 
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
 <p align='center'>
 
 </p>
@@ -58,12 +58,24 @@ End Technology
 
  <br />
  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkharoda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkharoda&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
  <br />
  <h2> Connect with me </h2>
  <div>
- <a href = 'https://www.linkedin.com/in/mohammed-kharoda-b5785b178'> <img width = '32px' align= 'center'      src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
- <a href = 'https://github.com/mohammedkharoda'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  
+
+
+<p align="center">
+ 
+<a href="https://twitter.com/MOHAMMEDKHAROD" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+
+<a href="https://www.linkedin.com/in/mohammed-kharoda-b5785b178/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+    
+<a href="https://medium.com/@kharodawalam" target="_blank">
+<img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
+
+</p>
  </div>
 
  
@@ -82,5 +94,9 @@ End Technology
  <h2>About My Work</h2>
  <img src="https://github-readme-stats.vercel.app/api?username=mohammedkharoda" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedkharoda" />
+ <br>
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=mohammedkharoda&theme=react-dark)
+<br>
 </div>
 <br>
