@@ -11,7 +11,7 @@
  I’m currently learning Tailwind , React.js , Node.js ,SQL<br><br>👯 I’m looking to collaborate on Projects Based on Front- End Technology<br><br>💬 Talk to me about CSS3, JavaScript, Illustration, Photoshop , Design System
 
 
-## 🌐 Socials:
+## 🌐 Socials Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-kharoda-b5785b178) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kharodawalam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MOHAMMEDKHAROD) 
 
 # 💻 Tech Stack:
