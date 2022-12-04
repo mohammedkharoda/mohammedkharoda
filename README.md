@@ -8,7 +8,7 @@
 </div>
 
 # 💫 About Me:
- I’m currently learning Tailwind , React.js , Node.js ,SQL<br><br>👯 I’m looking to collaborate on Projects Based on Front- End Technology<br><br>💬 Talk to me about CSS3, JavaScript, Illustration, Photoshop , Design System
+ I’m currently learning React.js , Node.js ,SQL<br><br>👯 I’m looking to collaborate on Projects Based on Front- End Technology<br><br>💬 Talk to me about CSS3, JavaScript, Illustration, Photoshop , Design System
 
 
 ## 🌐 Socials Media:
