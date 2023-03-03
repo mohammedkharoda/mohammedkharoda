@@ -4,7 +4,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! My name is Mohammed Kharodawala. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Mohammed Kharoda. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 # 💫 About Me 
