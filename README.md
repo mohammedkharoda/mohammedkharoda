@@ -1,6 +1,6 @@
 
 
-<h1> Hello Developed 
+<h1> Hello Dev
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
 <p align='center'>
 
