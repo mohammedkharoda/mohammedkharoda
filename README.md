@@ -11,7 +11,7 @@
 # 💫 About Me!
  I’m looking to collaborate on Projects Based on Front- End Technology<br><br>💬 Talk to me about CSS3, JavaScript, Illustration, Photoshop , Design System
  <div></div>
- Have a look at my inside world : [https://www.mohammed-kharoda.in/](https://www.mohammedkharoda.in/)
+ Have a look at my inside world : https://www.mohammedkharoda.in/
 
 
 ## 🌐 Socials Media:
